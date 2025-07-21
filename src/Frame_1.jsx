@@ -122,10 +122,10 @@ const Frame_1 = () => {
         <div className="relative h-full flex items-center justify-center">
           <div className="text-center px-4">
             <h2 className="text-5xl md:text-6xl font-bold text-white mb-4 drop-shadow-lg">
-              Welcome to Upper Ichon
+              Welcome to Upper Ichon Management System
             </h2>
             <p className="text-xl md:text-2xl text-[#B3DEF8] font-medium drop-shadow">
-              Your Digital Gateway to Community Services
+              A Seamless Web-based Solution for Barangay Operations
             </p>
           </div>
         </div>
