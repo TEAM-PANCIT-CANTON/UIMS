@@ -2,10 +2,12 @@
 export default {
   content: [
     "./index.html",
-    "./src/**/*.{js,ts,jsx,tsx}", // Adjust this based on your project structure
+    "./src/**/*.{js,ts,jsx,tsx}", // Scan all JS/TS/React files in /src
   ],
   theme: {
-    extend: {},
+    extend: {
+      // You can customize your theme here (e.g., colors, fonts)
+    },
   },
   plugins: [],
 }
